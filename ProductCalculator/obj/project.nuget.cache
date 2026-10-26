@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ev8HkbUkX/M=",
+  "success": true,
+  "projectFilePath": "/Users/amans/Desktop/ProductCalculatorSimple/ProductCalculator/ProductCalculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/amans/.nuget/packages/microsoft.extensions.apidescription.server/8.0.0/microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "/Users/amans/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/amans/.nuget/packages/swashbuckle.aspnetcore/10.3.1/swashbuckle.aspnetcore.10.3.1.nupkg.sha512",
+    "/Users/amans/.nuget/packages/swashbuckle.aspnetcore.swagger/10.3.1/swashbuckle.aspnetcore.swagger.10.3.1.nupkg.sha512",
+    "/Users/amans/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.3.1/swashbuckle.aspnetcore.swaggergen.10.3.1.nupkg.sha512",
+    "/Users/amans/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.3.1/swashbuckle.aspnetcore.swaggerui.10.3.1.nupkg.sha512",
+    "/Users/amans/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
+    "/Users/amans/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/amans/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/amans/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
